@@ -1,6 +1,6 @@
-# SelfieDrone
+# Pocket Tracker
 
-This repository contains the code used and developed during the master thesis entitled: "Tracking and Following a Moving Person Onboard a Pocket Drone”.
+This repository contains code used and developed during the master thesis entitled: "Tracking and Following a Moving Person Onboard a Pocket Drone”.
 
 Used operative system: Ubuntu 14.04.5 LTS
 
